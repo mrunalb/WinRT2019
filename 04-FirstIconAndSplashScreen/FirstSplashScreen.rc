@@ -1,0 +1,8 @@
+#include"FirstSplashScreen.h"
+
+MYICON ICON IconSample.ico
+MYBITMAP BITMAP SplashScreenLogo.bmp
+
+
+
+
